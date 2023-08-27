@@ -1,7 +1,7 @@
-// Imports
+// Imports Mongoose
 const { connect, connection } = require("mongoose");
 
-// Creates database
+// Creates database with MongoDB
 const connectionString =
   process.env.MONGODB_URI || "mongodb://127.0.0.1:27017/studentsDB";
 
