@@ -1,0 +1,19 @@
+{
+  "name": "social-network",
+  "version": "1.0.0",
+  "description": "Social-Networking-App",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmarie0420/Social-Network.git"
+  },
+  "author": "Kalynn Powell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kmarie0420/Social-Network/issues"
+  },
+  "homepage": "https://github.com/kmarie0420/Social-Network#readme"
+}
