@@ -5,7 +5,7 @@ const apiRoutes = require("./api");
 // Middleware
 router.use("/api", apiRoutes);
 
-router.use((req, res) => res.send("Wrong route!"));
+router.use((req, res) => res.send("Heyyyyyy!"));
 
 // Exports
 module.exports = router;

@@ -1,4 +1,4 @@
-// Imports from models
+// Imports
 const { User, Thought } = require("../models");
 
 // Get all thoughts
@@ -87,7 +87,7 @@ const thoughtController = {
     }
   },
 
-  // Add a reaction
+  // Add reaction
   async addReaction(req, res) {
     try {
       const reaction = await Thought.findOneAndUpdate(
