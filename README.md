@@ -55,6 +55,11 @@ As of now the usage of this application can be conducted through spinning up the
 
 ## Screenshots
 
+*![Alt text](screen-Images/Friends.png)
+*![Alt text](screen-Images/Reactions.png)
+*![Alt text](screen-Images/Thoughts.png)
+*![Alt text](screen-Images/Users.png)
+
 ## Contributors
 
 Kalynn Powell
