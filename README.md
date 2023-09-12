@@ -74,6 +74,11 @@ https://github.com/kmarie0420/Social-Network
 
 ## Walk-Through Video
 
+[Users Video](https://drive.google.com/file/d/1EvaoVqP1zZEocBoTsNDQFU-hFNxDTXcW/view)
+[Thoughts Video](https://drive.google.com/file/d/1b5mx9FjCJARVnHlnH1jBaDm-oS2MjFnr/view)
+[Reactions Video](https://drive.google.com/file/d/1xLIIphbmiuVM94rM-9tcnyt7EG_o-nkI/view)
+[Friends Video](https://drive.google.com/file/d/1ipw_bBk97dMcsGJNv0_JK0-bNki6y-FZ/view)
+
 ## Questions
 
 If you have any questions or concerns, please email:
